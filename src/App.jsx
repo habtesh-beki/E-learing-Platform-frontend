@@ -32,7 +32,7 @@ const router = createBrowserRouter([
 
 export default function App(){
 
-  return <div className="h-screen"> 
+  return <div className="h-screen overflow-hidden"> 
   <RouterProvider router={router}/>
   </div> 
 

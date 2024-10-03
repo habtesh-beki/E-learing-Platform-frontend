@@ -3,7 +3,7 @@ import { faMagnifyingGlass,faBell , faArrowDownWideShort } from '@fortawesome/fr
 
 export default function Header(){
     return (
-        <div className="flex justify-between text-color_text p-4 border-b ">
+        <div className="flex justify-between text-color_text p-4 border-b">
             <h3 className="text-color_main text-2xl">Course</h3>
             <div>
                 <input className="outline-0 bg-bg_com p-1 rounded-md text-color_main mr-1 text-black" type="text" placeholder="Search"/>
