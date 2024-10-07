@@ -81,7 +81,7 @@ export default function Course(){
          </ul>
         </div>
         <div className="border-l border-color_text">
-            world
+            hello there
         </div>
     </div>
 }
